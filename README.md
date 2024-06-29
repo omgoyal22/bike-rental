@@ -1,5 +1,7 @@
 # Features
-User Features
+**User Features**
+
+
 1)Browse Bikes: Users can see a variety of bikes displayed on the homepage, each with a thumbnail image and brief details.
 
 
@@ -15,7 +17,9 @@ User Features
 5)Rental History: Users can view their rental history, including details of past rentals, rental periods, and payment confirmations.
 
 
-Admin Features
+**Admin Features**
+
+
 1)Manage Bikes: Admins have the capability to add new bikes to the rental system, including uploading images and entering bike details.
 
 
@@ -25,7 +29,9 @@ Admin Features
 3)Delete Bikes: Admins can remove bikes from the rental system when they are no longer available for rent.
 
 
-Additional Features
+**Additional Features**
+
+
 1)User Authentication: Secure user login and registration process to ensure that only authorized users can rent bikes.
 
 
